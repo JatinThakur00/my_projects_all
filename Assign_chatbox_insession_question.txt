@@ -1,0 +1,11 @@
+1>Create A Series Using Dict In Pandas.
+2>How To Create A Copy Of The Series In Pandas?
+3>Create a DataFrame using List
+4>What Are The Different Ways A DataFrame Can Be Created In pandas?
+5>Write a Pandas program to join the two given data frames along rows and assign all data
+6>Write a Pandas program to create a Pivot table
+7>Write a Pandas program to detect missing values of a DataFrame. Display True or False
+8>Write a Pandas program to count the number of missing values in each column
+9>Write a Python program to find the maximum and minimum value of array
+10>Write a NumPy program to repeat all the elements three times of a given array of string
+['Pie' ,'pigeon' ,'Joker' ,'Cake']

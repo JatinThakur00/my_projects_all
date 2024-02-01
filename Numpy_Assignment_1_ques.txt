@@ -1,0 +1,33 @@
+Q1. 
+# Create an array filled with random values
+Q2.
+# Create a rank 1 array
+# Print "(3,)"
+# Print "1 2 3"
+# Change an element of the array
+# Create a rank 2 array
+Q3
+#Create an array of all ones
+#Create a constant array
+#Create a 2x2 identity matrix
+Q4
+#Create the following rank 2 array with shape (3, 4)
+#Use slicing to pull out the subarray consisting of the first 2 rows and columns 1 and 2; b is the following array of shape (2, 2)
+Q5
+x = np.array([[1,2],[3,4]], dtype=np.float64)
+y = np.array([[5,6],[7,8]], dtype=np.float64)
+sum, divide,product,divide,square root
+Q6
+v = np.array([1, 0, 1])
+# Stack 4 copies of v on top of each other
+#Generate an array of length 3n filled with the cyclic pattern 1, 2, 3
+Q7
+#Create an array of the first 10 odd integers.
+# Find intersection of a and b
+Q8
+##Reshape 1d array a to 2d array of 2X5
+##Create a numpy array to list and vice versa
+Q9
+#Create a 10 x 10 arrays of zeros and then "frame" it with a border of ones.
+Q10
+# Create an 8 x 8 array with a checkerboard pattern of zeros and ones using a slicing+striding approach.
